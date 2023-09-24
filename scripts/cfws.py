@@ -5,15 +5,15 @@ class Cfws(BaseModule):
     def __init__(self):
         self.config = [
             {
-                "username": "eradicatinglove",
-                "reponame": "TheOtherSide",
-                "assetPatterns": [".*TheOtherSide.*\\.zip"]
+                "username": "Atmosphere-NX",
+                "reponame": "Atmosphere",
+                "assetPatterns": [".*atmosphere.*\\.zip"]
             },
             {
-                "username": "eradicatinglove",
-                "reponame": "TheOtherSide",
+                "username": "Atmosphere-NX",
+                "reponame": "Atmosphere",
                 "prerelease": True,
-                "assetPatterns": [".*TheOtherSide.*\\.zip"]
+                "assetPatterns": [".*atmosphere.*\\.zip"]
             },
             {
                 "username": "Team-Neptune",
