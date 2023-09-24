@@ -1,11 +1,11 @@
 {
     "bootloaders": {
-        "hekate_ctcaer_6.0.6_Nyx_1.5.5.zip": "https://github.com/CTCaer/hekate/releases/download/v6.0.6/hekate_ctcaer_6.0.6_Nyx_1.5.5.zip",
+        "TheOTherSide_hekate": "https://github.com/eradicatinglove/hekate/releases/download/v6.0.6/TheOtherSide_hekate_6.0.6.zip",
         "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
     },
     "cfws": {
-        "Atmosphere": {
-            "atmosphere-1.5.5-master-4fe9a89ab+hbl-2.4.3+hbmenu-3.5.1.zip": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.5.5/atmosphere-1.5.5-master-4fe9a89ab%2Bhbl-2.4.3%2Bhbmenu-3.5.1.zip"
+        "TheOtherSide": {
+            "TheOtherSide_ams_1.5.5.zip": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.5.5/TheOtherSide_AMS_1.5.5.zip"
         },
         "DeepSea": {
             "deepsea-advanced_v4.7.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.7.0/deepsea-advanced_v4.7.0.zip",
@@ -14,7 +14,7 @@
         }
     },
     "hekate": {
-        "hekate_ctcaer_6.0.6_Nyx_1.5.5.zip": "https://github.com/CTCaer/hekate/releases/download/v6.0.6/hekate_ctcaer_6.0.6_Nyx_1.5.5.zip"
+        "TheOtherSide_hekate_6.0.6.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.0.6/TheOtherSide_hekate_6.0.6.zip"
     },
     "payloads": {
         "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.5.5/fusee.bin",
