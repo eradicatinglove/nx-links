@@ -4,8 +4,8 @@
         "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
     },
     "cfws": {
-        "TheOtherSide": {
-            "TheOtherSide_ams_1.5.5.zip": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.5.5/atmosphere-1.5.5-master-4fe9a89ab+hbl-2.4.3+hbmenu-3.5.1.zip"
+        "Atmosphere": {
+            "atmosphere-1.5.5-master-4fe9a89ab+hbl-2.4.3+hbmenu-3.5.1.zip": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.5.5/atmosphere-1.5.5-master-4fe9a89ab+hbl-2.4.3+hbmenu-3.5.1.zip"
         },
         "DeepSea": {
             "deepsea-advanced_v4.7.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.7.0/deepsea-advanced_v4.7.0.zip",
