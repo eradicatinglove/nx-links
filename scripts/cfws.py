@@ -10,7 +10,7 @@ class Cfws(BaseModule):
                 "assetPatterns": [".*TheOtherSide.*\\.zip"]
             },
             {
-                "username": "Atmosphere-NX",
+                "username": "eradicatinglove",
                 "reponame": "Atmosphere",
                 "prerelease": True,
                 "assetPatterns": [".*Theotherside.*\\.zip"]
