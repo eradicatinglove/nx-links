@@ -5,12 +5,12 @@ class Cfws(BaseModule):
     def __init__(self):
         self.config = [
             {
-                "username": "eradicatinglove",
+                "username": "Atmosphere-NX",
                 "reponame": "Atmosphere",
                 "assetPatterns": [".*atmosphere.*\\.zip"]
             },
             {
-                "username": "eradicatinglove",
+                "username": "Atmosphere-NX",
                 "reponame": "Atmosphere",
                 "prerelease": True,
                 "assetPatterns": [".*atmosphere.*\\.zip"]
