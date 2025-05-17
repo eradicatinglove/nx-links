@@ -1,6 +1,6 @@
 {
     "bootloaders": {
-        "TheOTherSide_hekate": "https://github.com/eradicatinglove/hekate/releases/download/v6.2.2/The_Other_Side_hekate_6.2.2.zip",
+        "TheOTherSide_hekate": "https://github.com/eradicatinglove/hekate/releases/download/v6.3.0/TheOtherside_hekate_6.3.0.zip",
         "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
     },
     "cfws": {
@@ -15,7 +15,7 @@
         }
     },
     "hekate": {
-        "TheOtherSide_hekate_6.2.2.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.2.2/The_Other_Side_hekate_6.2.2.zip"
+        "TheOtherSide_hekate_6.2.2.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.3.0/TheOtherside_hekate_6.3.0.zip"
     },
     "payloads": {
         "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.5.5/fusee.bin",
