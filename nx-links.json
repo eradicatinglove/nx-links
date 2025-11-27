@@ -23,16 +23,15 @@
         "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.2.0/TegraExplorer.bin"
     },
     "firmwares": {
-        "[mega.nz] Firmware 21.0.0": "https://mega.nz/file/bR9VAAJB#3g1hAI6z2yFLkRKKj0N5gGvB5MGhL6BIkeEupnRH8Gg",
-        "[mega.nz] Firmware 20.5.0": "https://mega.nz/file/XYkBwabI#IlZw1HSTO4mpQfNGpDVyQznsgfVqONflfA4no-0CHdo",
+        "[mega.nz] Frimware 21.0.1": "https://mega.nz/file/0fJmFL6b#LJImrNMomUWdIufukna_QEv0qH1XFpuXz6vYlO1X9N0",
+        "[mega.nz] Firmware 21.0.0": "https://mega.nz/file/Fbom3DxZ#EBdj6eC0Jnzq3v_HaNw8L19WmsqrLavsw7565BW8t9o",
+        "[mega.nz] Firmware 20.5.0": "https://mega.nz/file/FbZSUZpY#hvh1aCTM-m5ZyzDgk7BHQR204TrbwG8WjZPXOsMXNlU",
         "[mega.nz] Firmware 20.4.0": "https://mega.nz/file/eN1DDCLB#xW5UqCdvtvZ4zzsXehsYwrgwhIZsxQ2cSaFNnCkcEEA",
         "[mega.nz] Firmware 20.3.0": "https://mega.nz/file/nZslwSjZ#W_g5QfaLhjltwBuDyKZdl1PndC4-rmsyZmGZIVzFAPE",
         "[mega.nz] Firmware 20.2.0": "https://mega.nz/file/TVcwhZjD#K_jsqT0c8c6IWmeBgalhtjmmqFAxt9218T6y3M8q2tw",
-        "[mega.nz] [China fw] Firmware 19.0.1 (Rebootless Update)": "https://mega.nz/folder/zd8AFToS#LJPNQ8IFLGKCycpo_Knzpw",
-        "[mega.nz] [China fw] Firmware 19.0.1": "https://mega.nz/folder/zd8AFToS#LJPNQ8IFLGKCycpo_Knzpw",
-        "[mega.nz] [China fw] Firmware 19.0.0": "https://mega.nz/folder/zd8AFToS#LJPNQ8IFLGKCycpo_Knzpw",
-        "[mega.nz] [China fw] Firmware 18.1.0 (Rebootless Update)": "https://mega.nz/folder/zd8AFToS#LJPNQ8IFLGKCycpo_Knzpw",
-        "[mega.nz] [China fw] Firmware 18.1.0": "https://mega.nz/folder/zd8AFToS#LJPNQ8IFLGKCycpo_Knzpw"
+        "[mega.nz] [China fw] Firmware 19.0.1": "https://mega.nz/file/UXBQ1QgL#R7muB8UNe8xdEgtv1PVrvovOBe752TIJYjW49U1Ji0s",
+        "[mega.nz] [China fw] Firmware 19.0.0": "https://mega.nz/file/QDo1SDIY#9SD5Noes20g39TY83aQviAogCSxj_CNbqNP_KG_7BKk",
+        "[mega.nz] [China fw] Firmware 18.1.0": "https://mega.nz/file/pS5CTaCK#8nhAoRajTdUOi-4m6DvLQjz5n5aFgZs-CTj4TnMneIw"
     },
     "hekate_ipl": {
         "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
