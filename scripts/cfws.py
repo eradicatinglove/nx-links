@@ -17,7 +17,7 @@ class Cfws(BaseModule):
             },
             {
                 "username": "Team-Neptune",
-                "reponame": "deapsea",
+                "reponame": "Deepsea",
                 "assetPatterns": [".*eradicatinglove.*\\.zip"]
             }
         ]
