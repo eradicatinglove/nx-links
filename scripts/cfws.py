@@ -18,7 +18,7 @@ class Cfws(BaseModule):
             {
                 "username": "Team-Neptune",
                 "reponame": "DeepSea",
-                "assetPatterns": [".*deepsea.*\\.zip"]
+                "assetPatterns": [".*eradicatinglove.*\\.zip"]
             }
         ]
         BaseModule.__init__(self)
