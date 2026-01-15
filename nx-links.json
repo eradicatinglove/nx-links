@@ -1,20 +1,20 @@
 {
     "bootloaders": {
-        "TheOtherSide_hekate_6.4.2.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.4.2/TheOtherSide_hekate_6.4.2.zip",
+        "TheOtherSide_hekate_6.5.0.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.0/TheOtherSide_hekate_6.5.0.zip",
         "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
     },
     "cfws": {
         "Atmosphere": {
-            "TheOtherSide-ams-1.10.1.zip": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.10.1/TheOtherSide_ams_1.10.1.zip"
+            "TheOtherSide-ams-1.10.2.zip": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.10.2/TheOtherSide_ams_1.10.2.zip"
         },
-        "DeepSea": {
+        "Dee": {
             "Tesla-Menu-21.0.1.zip": "https://github.com/eradicatinglove/Tesla-Menu/releases/download/v2.0.0/Tesla-Menu-21.0.1.zip",
             "overlays-pack-21.1.0": "https://github.com/eradicatinglove/sys-clk-reversenx-statusmonitor-fps-locker-edizon-overlays/releases/download/v1.0.0/overlays_pack_21.1.0.zip",
             "Mission-Control-14.1.zip": "https://github.com/eradicatinglove/MissionControl/releases/download/v14.1/MissionControl-0.14.1-master-141b3aca.zip"
         }
     },
     "hekate": {
-        "TheOtherSide_hekate_6.4.2.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.4.2/TheOtherSide_hekate_6.4.2.zip"
+        "TheOtherSide_hekate_6.5.0.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.0/TheOtherSide_hekate_6.5.0.zip"
     },
     "payloads": {
         "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.9.5/fusee.bin",
@@ -22,6 +22,7 @@
         "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.2.0/TegraExplorer.bin"
     },
     "firmwares": {
+        "[mega.nz] Frimware 21.2.0": "",
         "[mega.nz] Frimware 21.1.0": "https://mega.nz/file/VL5ClBoZ#KeP2NE-GTnLnmuME73tlvBo0-UgDEG3GkNxLw5BsUAQ",
         "[mega.nz] Frimware 21.0.1": "https://mega.nz/file/0fJmFL6b#LJImrNMomUWdIufukna_QEv0qH1XFpuXz6vYlO1X9N0",
         "[mega.nz] Firmware 21.0.0": "https://mega.nz/file/Fbom3DxZ#EBdj6eC0Jnzq3v_HaNw8L19WmsqrLavsw7565BW8t9o",
