@@ -1,11 +1,11 @@
 {
     "bootloaders": {
-        "TheOtherSide_hekate_6.5.0.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.2/TheOtherSide-hekate-6.5.2.zip",
+        "TheOtherSide_hekate_6.5.2.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.2/TheOtherSide-hekate-6.5.2.zip",
         "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
     },
     "cfws": {
         "Atmosphere": {
-            "TheOtherSide-ams-1.10.2.zip": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.11.0/TheOtherSide-ams-1.11.0.zip"
+            "TheOtherSide-ams-1.11.0.zip": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.11.0/TheOtherSide-ams-1.11.0.zip"
         },
         "Dee": {
             "Tesla-Menu-21.0.1.zip": "https://github.com/eradicatinglove/Tesla-Menu/releases/download/v2.0.0/Tesla-Menu-21.0.1.zip",
@@ -14,7 +14,7 @@
         }
     },
     "hekate": {
-        "TheOtherSide_hekate_6.5.0.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.2/TheOtherSide-hekate-6.5.2.zip"
+        "TheOtherSide_hekate_6.5.2.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.2/TheOtherSide-hekate-6.5.2.zip"
     },
     "payloads": {
         "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.9.5/fusee.bin",
@@ -22,6 +22,7 @@
         "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.2.0/TegraExplorer.bin"
     },
     "firmwares": {
+        "[mega.nz] Frimware 22.0.0": "https://mega.nz/file/IbwzHBDJ#ycLy5PLxUv4tV1wlqTuOuGMxENo3cshtAF8OC9EAQ-w",
         "[mega.nz] Frimware 21.2.0": "https://mega.nz/file/MWJAQTzI#ibM-WJqr__i6LqEG0udvYQw_NRN5qbvKymWVGTYNgDw",
         "[mega.nz] Frimware 21.1.0": "https://mega.nz/file/VL5ClBoZ#KeP2NE-GTnLnmuME73tlvBo0-UgDEG3GkNxLw5BsUAQ",
         "[mega.nz] Frimware 21.0.1": "https://mega.nz/file/0fJmFL6b#LJImrNMomUWdIufukna_QEv0qH1XFpuXz6vYlO1X9N0",
