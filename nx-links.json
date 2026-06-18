@@ -1,12 +1,11 @@
 {
     "bootloaders": {
-        "TheOtherSide_hekate_6.5.2.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.2/TheOtherSide-hekate-6.5.2.zip",
+        "TheOtherSide_hekate_6.5.3.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.3/TheOtherSide_hekate_6.5.3.zip",
         "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
     },
     "cfws": {
         "Atmosphere": {
-            "TheOtherSide-ams-1.11.1.zip": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.11.1/TheOtherSide-ams-1.11.1.zip",
-            "TheOtherSide-ams-1.11-tinfoil-version": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.11.1-1/TheOtherSide-ams-1.11.1-tinfoil-version.zip"
+            "TheOtherSide-ams-1.11.2.zip": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.11.2/TheOtherSide_ams_1.11.2.zip"
         },
         "Dee": {
             "Tesla-Menu-21.0.1.zip": "https://github.com/eradicatinglove/Tesla-Menu/releases/download/v2.0.0/Tesla-Menu-21.0.1.zip",
@@ -15,7 +14,7 @@
         }
     },
     "hekate": {
-        "TheOtherSide_hekate_6.5.2.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.2/TheOtherSide-hekate-6.5.2.zip"
+        "TheOtherSide_hekate_6.5.3.zip": "https://github.com/eradicatinglove/hekate/releases/download/v6.5.3/TheOtherSide_hekate_6.5.3.zip"
     },
     "payloads": {
         "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.9.5/fusee.bin",
